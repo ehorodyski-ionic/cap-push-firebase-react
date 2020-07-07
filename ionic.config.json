@@ -1,0 +1,7 @@
+{
+  "name": "cap-push-firebase-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
