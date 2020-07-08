@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "cap-push-firebase-react",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

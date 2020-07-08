@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89467755801",
+    "firebase_url": "https://cap-push-demo.firebaseio.com",
+    "project_id": "cap-push-demo",
+    "storage_bucket": "cap-push-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89467755801:android:9d8a18f5eb11b189563988",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89467755801-hd0nfqfakqbnf9t5e1rv0kv1ag4s32st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuubsIGgOnYxRkESUJoK8PXLfNKAzjdmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89467755801-hd0nfqfakqbnf9t5e1rv0kv1ag4s32st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
